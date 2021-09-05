@@ -1,0 +1,14 @@
+.label {
+  display: inline-flex;
+  flex-direction: column;
+
+  margin-bottom: 10px;
+}
+
+.input {
+  display: inline-block;
+  margin-top: 5px;
+  width: 250px;
+  padding: 2px;
+  border: 1px solid rgba(199, 199, 199, 0.6);
+}
